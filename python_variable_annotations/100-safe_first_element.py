@@ -1,4 +1,4 @@
-# The types of the elements of the input are not known
+#!/usr/bin/env python3
 from typing import Sequence, Any, Optional
 
 
