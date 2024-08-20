@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/env pythoni3
 from typing import Sequence, Any, Optional
+
 
 def safe_first_element(lst: Sequence[Any]) -> Optional[Any]:
     if lst:
