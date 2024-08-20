@@ -1,7 +1,4 @@
-"""
-This module provides a function to safely get the first element of a sequence.
-"""
-
+# The types of the elements of the input are not known
 from typing import Sequence, Any, Optional
 
 
