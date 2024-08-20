@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+This module provides a function to safely get the first element of a sequence.
+"""
 from typing import Sequence, Any, Optional
 
 
